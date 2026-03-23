@@ -2,8 +2,8 @@
 
 module.exports = {
   // Service name
-  serviceName: 'Service name goes here',
+  serviceName: "Call/Recall Prototype",
 
   // Port to run the prototype on locally
-  port: 3000
-}
+  port: 3000,
+};
